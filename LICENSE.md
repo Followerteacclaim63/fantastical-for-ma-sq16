@@ -1,4 +1,4 @@
-#  
+#  advanced Addon for Fantastical for macOS - export to PDF and version history is the best Fantastical for macOS addon, featuring export to PDF and version history. Safe, efficient,
 
 
 
